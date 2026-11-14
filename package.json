@@ -1,0 +1,1 @@
+{"name":"resend-gmail-forwarder","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"wrangler dev","deploy":"wrangler deploy","tail":"wrangler tail"},"dependencies":{"svix":"^1.76.1"},"devDependencies":{"wrangler":"^4.0.0"}}

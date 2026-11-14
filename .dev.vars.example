@@ -1,0 +1,4 @@
+RESEND_API_KEY=your_resend_api_key 
+RESEND_WEBHOOK_SECRET=your_webhook_signing_secret 
+GMAIL_FORWARD_TO=your@gmail.com 
+RESEND_FROM=notifications@yourdomain.com
