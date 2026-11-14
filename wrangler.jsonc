@@ -1,6 +1,6 @@
 { 
   "$schema": "node_modules/wrangler/config-schema.json", 
-  "name": "resend-gmail-forwarder", 
+  "name": "mailer", 
   "main": "src/index.js", 
   "compatibility_date": "2026-11-15", 
   "compatibility_flags": ["nodejs_compat"] 
